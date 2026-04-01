@@ -16,6 +16,9 @@ I’m a **Frontend Developer** based in Georgia. I don't just write code; I desi
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanssii&show_icons=true&theme=radical)](https://github.com/Lanssii/github-readme-stats ) -->
 
+### Codewars
+![Codewars](https://github.r2v.ch/codewars?user=Lanssii&stroke=%23BB432C)
+
 📫 Let's Connect!
 [LinkedIn](www.linkedin.com/in/lana-shotashvili-834aa9384) | [Telegram](@LanaShotashvili) | [Email](shotashvililana@gmail.com)
 
