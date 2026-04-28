@@ -10,10 +10,11 @@ I’m a **Frontend Developer** based in Georgia. I don't just write code; I desi
 
 ### 👩🏽‍💻 About Me
 *   🎓 **University:** Studying Computer Science at *Georgian Technical University*
+*   👨‍🏫 **Mentorship:** Currently mentoring a young developer in Frontend Development, focusing on best practices and project-based learning.
 *   🚀 **Focus:** Currently deep diving into **FrontEnd** and polishing core skills.
 *   🏆 **Recent Win:** Built a full-scale **E-commerce website** for a UA shop! (Launching soon!)
 *   📦 **The Vault:** 50+ private repositories in progress — currently polishing them for the public.
-*   👨‍🏫 **Mentorship:** Currently mentoring a young developer in Frontend Development, focusing on best practices and project-based learning.
+
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanssii&show_icons=true&theme=radical)](https://github.com/Lanssii/github-readme-stats ) -->
 
