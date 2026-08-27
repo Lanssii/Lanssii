@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Lana! 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Lana!;Frontend+Developer;React+%2F+Next.js+%2F+TypeScript;Building+Seamless+UX+%26+Animations" alt="Typing SVG" />
+  </a>
+</h1>
 
 I’m a **Frontend Developer** based in Georgia. I don't just write code; I design and build whatever I can imagine, turning ideas into functional, clean, and responsive reality.
 
@@ -36,17 +40,16 @@ I’m a **Frontend Developer** based in Georgia. I don't just write code; I desi
 <!-- Legacy & Testing Frameworks -->
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-### 🌍 Languages (The "Polyglot" Advantage)
+### 🌍 Languages
 🇬🇪 Georgian | 🇬🇧 English | 🇷🇺 Russian | 🇦🇲 Armenian | 🇺🇦 Ukrainian
 
 ### 👩🏽‍💻 About Me
-*   🎓 **University:** Studying Computer Science at *Georgian Technical University*
-*   🚀 **Unilab Acceleration**: Participating in the Unilab Acceleration Program, working on 6 real-world projects.
-*   👨‍🏫 **Mentorship:** Currently mentoring a young developer in Frontend Development, focusing on project-based learning.
-*   🌟 **Leadership**: Madrich (Youth Leader) in Jewish organizations, organizing educational activities, mentoring younger participants.
-*   💻 **Focus:** With a solid foundation in FrontEnd, I am now steadily expanding my horizons into FullStack development.
-*   🏆 **Recent Win:** Built a full-scale **E-commerce website** for a UA shop! (Launching soon!)
 
+* 🎓 **University:** Pursuing a Degree in Computer Science at Georgian Technical University.
+* 🚀 **Unilab**: Architecting real-world client applications within the UniLab React Acceleration Program.
+* 👨‍🏫 **Mentorship:** Mentoring junior developers in Frontend Architecture through hands-on, project-based code reviews.
+* 💻 **Full-Stack**: Deep frontend mastery (React, TypeScript, Next.js) paired with active backend expansion (Node.js).
+* 🏆 **Recent Delivery**: Built a full-scale commercial E-commerce platform for a Ukraine-based brand (Launching soon).
 
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanssii&show_icons=true&theme=radical)](https://github.com/Lanssii/github-readme-stats ) -->
