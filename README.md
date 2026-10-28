@@ -46,8 +46,9 @@ I’m a **Frontend Developer** based in Georgia. I don't just write code; I desi
 
 ### 👩🏽‍💻 About Me
 
+* 💼 **Work:** Frontend Developer at Helfy.
 * 🎓 **University:** Pursuing a Degree in Computer Science at Georgian Technical University.
-* 🚀 **Unilab**: Architecting real-world client applications within the UniLab React Acceleration Program.
+* 🚀 **UniLab:** Graduated from the React Acceleration Program, building client-oriented production applications. 
 * 👨‍🏫 **Mentorship:** Mentoring junior developers in Frontend Architecture through hands-on, project-based code reviews.
 * 💻 **Full-Stack**: Deep frontend mastery (React, TypeScript, Next.js) paired with active backend expansion (Node.js).
 * 🏆 **Recent Delivery**: Built a full-scale commercial E-commerce platform for a Ukraine-based brand (Launching soon).
